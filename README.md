@@ -1,1 +1,2 @@
-# Srcinit
+# srcinit
+Simplified source code generator
