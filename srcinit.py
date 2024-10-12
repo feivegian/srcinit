@@ -22,7 +22,7 @@ PLATFORMDIRS_APP_VERSION = "1.0"
 
 ##
 # If you wish to use your own srcinit templates,
-# point SYNC_URL to your repository's latest release download URL
+# point SYNC_REMOTE_URL to your repository's latest release download URL
 ##
 SYNC_REMOTE_URL = "https://github.com/feivegian/srcinit-templates/releases/latest/download/templates.zip"
 SYNC_LOCAL_DIR = platformdirs.user_data_dir(PLATFORMDIRS_APP_NAME
