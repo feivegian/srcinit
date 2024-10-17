@@ -2,5 +2,6 @@
 Simplified source code generator
 
 >[!NOTE]
-> srcinit is being re-written from scratch using the Rust programming language.
+> Due to inactivity and lack of motivation to write code, I've decided to archive this project.
+> If you try to fork this repository, make sure you read the comments first...
 >
